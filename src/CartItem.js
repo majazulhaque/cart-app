@@ -12,7 +12,6 @@ class CartItem extends React.Component{
         // this.increaseQuantity = this.increaseQuantity.bind(this);
     }
     increaseQuantity = () => {
-        
         // this.state.qty += 1;
         // console.log("Increase qty:",this.state.qty);
         //shallow merging
